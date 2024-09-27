@@ -16,4 +16,4 @@ The repo is structured as:
 
 
 ## Statement on LLM usage
-GPT-4o was utilized as LLM for this paper,the chat log documenting usage could be found at inputs/llm/usage.txt
+GPT-4o was utilized as LLM for this paper,the chat log documenting usage could be found at other/llm/usage.txt
